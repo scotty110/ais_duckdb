@@ -1,0 +1,13 @@
+name: duckdb 
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - cmake
+  - ninja
+  - fastparquet
+  - pandas
+  - pyarrow
+  - pyspark
+  - python-duckdb
+  - openjdk
